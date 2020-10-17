@@ -186,3 +186,15 @@ process:-
 ``` Swift 
 import swift
 print("Hello,World!")
+### C#
+``` C#
+namespace HelloWorld
+
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
